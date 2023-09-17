@@ -1,9 +1,9 @@
-# faces_reconizer
+# Reconocimiento facial
 
-## Etiquetas en google maps
+## Entrenamiento del modelo
 
 ![Entrenamiento del modelo](modelado.png)
 
-## Etiquetas en google maps
+## Ejecución
 
 ![Ejecución](resultados.png)
